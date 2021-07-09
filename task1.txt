@@ -1,0 +1,12 @@
+timofei@MacBook-Pro-Timofej Attractor % mkdir projects
+timofei@MacBook-Pro-Timofej Attractor % cd projects 
+timofei@MacBook-Pro-Timofej projects % mkdir myproject
+timofei@MacBook-Pro-Timofej projects % cd myproject 
+timofei@MacBook-Pro-Timofej myproject % mkdir directory1 directory2 directory3
+timofei@MacBook-Pro-Timofej myproject % cd directory1
+timofei@MacBook-Pro-Timofej directory1 % mkdir subdirectory1
+timofei@MacBook-Pro-Timofej directory1 % cd ../
+timofei@MacBook-Pro-Timofej myproject % cd directory3
+timofei@MacBook-Pro-Timofej directory3 % mkdir subdirectory3
+timofei@MacBook-Pro-Timofej directory3 % cd ../..
+timofei@MacBook-Pro-Timofej projects % 
